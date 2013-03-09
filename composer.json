@@ -1,0 +1,11 @@
+{
+    "name": "chaplin/chaplin",
+    "type": "library",
+    "description": "An Application Architecture Using Backbone.js",
+    "version": "0.7.0",
+    "keywords": ["javascript", "chaplin"],
+    "license": "MIT",
+    "authors": [
+        {"name": "Paul Miller", "email": "paul+gh@paulmillr.com"}
+    ]
+}
